@@ -3,7 +3,7 @@
 <header> 
   <div class='header__nav'>
     <ul class='header__nav-links'>
-      <li><router-link class="header__nav-link" to="/">Главная</router-link></li>
+      <li><router-link class="header__nav-link" to="/youtube-project/">Главная</router-link></li>
         <li><router-link class="header__nav-link" to="/saved">Мои Видео</router-link></li>
       </ul>
   </div>

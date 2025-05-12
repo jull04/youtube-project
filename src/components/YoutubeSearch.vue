@@ -11,7 +11,7 @@
 
     <SearchPreloader v-if="isLoading" />
 
-    <div v-if="error" class="error">{{ error }}</div>
+    <div v-if="error" class="main__error">{{ error }}</div>
 
     <div v-if="videos.length > 0" class="main__videos-grid">
       <VideoCard
