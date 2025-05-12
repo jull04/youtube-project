@@ -1,24 +1,33 @@
 # youtube-project
 
-## Project setup
+Веб-приложение для поиска и просмотра видео с YouTube, разработанное с использованием YouTube Data API v3. 
+
+# Технологии:
+
+Vue 3 
+Vue Router 
+Axios
+Webpack / Vue CLI 
+
+## Установка и запуск проекта:
+```
+
+### Клонировать репозиторий:
+```
+git clone git@github.com:jull04/youtube-project.git
+```
+
+### Установить зависимости:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
+### Собрать проект:
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Запустить приложение:
 ```
-npm run lint
+npm run serve
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
