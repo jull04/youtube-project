@@ -3,7 +3,7 @@ import YoutubeSearch from '../components/YoutubeSearch.vue'
 import SavedMovies from '../components/SavedMovies.vue' 
 
 const routes = [
-  { path: '/', name: 'Main', component: YoutubeSearch },
+  { path: '/youtube-project', name: 'Main', component: YoutubeSearch },
   { path: '/saved', name: 'Saved', component: SavedMovies },
 ]
 
