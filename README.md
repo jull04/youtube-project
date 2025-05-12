@@ -4,10 +4,10 @@
 
 ## Технологии:
 
-*Vue 3 
-*Vue Router 
-*Axios
-*Webpack / Vue CLI 
+* Vue 3 
+* Vue Router 
+* Axios
+* Webpack / Vue CLI 
 
 ## Установка и запуск проекта:
 
