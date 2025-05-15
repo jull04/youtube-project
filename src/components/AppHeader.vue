@@ -1,4 +1,3 @@
-
 <template>
 <header> 
   <div class='header__nav'>
@@ -37,10 +36,10 @@ export default {
   font-weight: bold;
   text-decoration: none;
 }
+
 .header__nav-link:hover {
   opacity: 0.7;
 }
-
 
 .header__nav-link:active {
   color: initial;

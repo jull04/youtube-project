@@ -1,4 +1,3 @@
-
 <template>
   <div class="preloader">
     <div class="preloader__container">
